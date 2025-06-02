@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on data science projects, open-source tools, and ML-based applications  
 - 📫 How to reach me:  
 pranavdeore6@gmail.com 
-  - LinkedIn: [linkedin.com/in/pranav-deore](https://linkedin.com/in/pranav-deore)  
-  - Twitter/X: [@Pranav_deore](https://twitter.com/Pranav_deore)  
+  - LinkedIn:https://www.linkedin.com/in/pranav-devre-3518a8343  
+  - Twitter/X: https://x.com/PranavDeor57852?t=ylDVTcEwC5j_96Rm2mfu0Q&s=09  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I enjoy digging through data like a detective and finding insights others miss 🕵️‍♂️📊
 
